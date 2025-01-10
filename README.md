@@ -13,3 +13,6 @@
 - 레이아웃 구현
 - 인터랙티브 요소 추가
 - 반응형 디자인 적용
+
+## 데모 링크
+[Mini Project 02 Demo](https://soyeon1962.github.io/mini-project-01/)
