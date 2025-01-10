@@ -15,4 +15,4 @@
 - 반응형 디자인 적용
 
 ## 데모 링크
-[Mini Project 02 Demo](https://soyeon1962.github.io/mini-project-01/)
+[Mini Project 01 Demo](https://soyeon1962.github.io/mini-project-01/)
